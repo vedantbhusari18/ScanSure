@@ -1,0 +1,10 @@
+{
+  "name": "Raksha Setu",
+  "description": "Secure defense and tactical field communications platform with E2EE messaging, DLP monitoring, encrypted VPN tunneling, and HQ emergency broadcast alert center.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
